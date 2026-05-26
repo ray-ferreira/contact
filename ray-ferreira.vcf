@@ -9,8 +9,8 @@ TEL;TYPE=CELL,VOICE:+14014868371
 EMAIL;TYPE=WORK:ray@bookgenerations.com
 URL;TYPE=WORK:https://bookgenerations.com
 URL;TYPE=WORK:http://italybyrailandsea.com
-URL;TYPE="Facebook":https://www.facebook.com/rferreiracta/
-URL;TYPE="Instagram":https://www.instagram.com/ray.ferreira.travelagent/
-URL;TYPE="LinkedIn":https://www.linkedin.com/in/rayferreira/
-URL;TYPE="Calendly":https://calendly.com/rayf-travel/30min
+URL;TYPE=Facebook:https://www.facebook.com/rferreiracta/
+URL;TYPE=Instagram:https://www.instagram.com/ray.ferreira.travelagent/
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/rayferreira/
+URL;TYPE=Calendly:https://calendly.com/rayf-travel/30min
 END:VCARD
