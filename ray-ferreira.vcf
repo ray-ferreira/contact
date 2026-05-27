@@ -3,14 +3,16 @@ VERSION:3.0
 FN:Rui (Ray) Ferreira, CTA
 N:Ferreira;Rui;;;CTA
 NICKNAME:Ray
-ORG:Generations Getaways/Italy by Rail & Sea
+PHOTO;VALUE=URI:https://bookgenerations.com/wp-content/uploads/sites/9603/bb-plugin/cache/Ray-Headshot-circle.png
+ORG:Generations Getaways;Italy by Rail & Sea
 TITLE:Owner/Partner
 TEL;TYPE=CELL,VOICE:+14014868371
 EMAIL;TYPE=WORK:ray@bookgenerations.com
-URL;TYPE=WORK:https://bookgenerations.com
-URL;TYPE=WORK:http://italybyrailandsea.com
+URL:https://bookgenerations.com
+URL:http://italybyrailandsea.com
 URL;TYPE=Facebook:https://www.facebook.com/rferreiracta/
 URL;TYPE=Instagram:https://www.instagram.com/ray.ferreira.travelagent/
 URL;TYPE=LinkedIn:https://www.linkedin.com/in/rayferreira/
 URL;TYPE=Calendly:https://calendly.com/rayf-travel/30min
+NOTE:Certified Travel Advisor | Custom Italy itineraries by rail & sea
 END:VCARD
